@@ -1,0 +1,5 @@
+a=input(' katsayısını giriniz:');
+katsayilar=[];
+y=roots(katsayilar);
+disp(y(1));
+disp(y(2));

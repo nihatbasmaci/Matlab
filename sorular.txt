@@ -1,0 +1,6 @@
+Bir sayýnýn faktöriyel özyinelemeli 
+yukardaki soruyu normal fonksiyon yapýlarýyla gerçekleþtirin 
+her iki yöntemin + - çalýþma zamaný etkinliði tüm özelliklerini karþýlaþtýrýp avantaj ve dez avantajlarýný karþýlaþtýrýnýz
+ilk hýzý ve atýþ açýsý verilen bir serbest ateþ modelleyiniz plot olarak grafik çiz
+bunun animasyonnu gerçekleþtiriniz (move)
+yukardan serbest düþme hareketini modelleyiniz grafiniðini çiziniz animasyonunu yapýnýz 
